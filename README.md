@@ -8,9 +8,9 @@ I design, specify and test everything below. Much of the code is written with Cl
 
 | | |
 |---|---|
-| **[Scanline](https://github.com/Mjay-2015/scanline)** · [open the app](https://mjay-2015.github.io/scanline/) | Turns phone photos of paper into a clean PDF. It finds the page, flattens the perspective and cleans the scan in the browser, with no scanning library. Tested on 300 simulated photos. |
-| **[Mixtape](https://github.com/Mjay-2015/mixtape)** · [open the app](https://mjay-2015.github.io/mixtape/) | An offline music player with a full studio: mixing, scoring to picture, and speech recognition that runs in the browser to time lyrics and transcribe recordings. Installable on a phone. |
-| **[model-service](https://github.com/Mjay-2015/model-service)** | Treats an ML model as a dependency: input and output contracts, timeouts, fallbacks, and an evaluation runner that can gate CI on failures and latency. |
+| **[Scanline](https://github.com/nataliedonga/scanline)** · [open the app](https://nataliedonga.github.io/scanline/) | Turns phone photos of paper into a clean PDF. It finds the page, flattens the perspective and cleans the scan in the browser, with no scanning library. Tested on 300 simulated photos. |
+| **[Mixtape](https://github.com/nataliedonga/mixtape)** · [open the app](https://nataliedonga.github.io/mixtape/) | An offline music player with a full studio: mixing, scoring to picture, and speech recognition that runs in the browser to time lyrics and transcribe recordings. Installable on a phone. |
+| **[model-service](https://github.com/nataliedonga/model-service)** | Treats an ML model as a dependency: input and output contracts, timeouts, fallbacks, and an evaluation runner that can gate CI on failures and latency. |
 | **[Mindcraft Foundry](https://mindcraftfoundry.co.za)** | The studio's public site: a slate of adaptations in development and a guided story-starter for writers. |
 
 ### How I work
